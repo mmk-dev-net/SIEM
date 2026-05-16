@@ -1,0 +1,56 @@
+# ----------------------
+# Python
+# ----------------------
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.pytest_cache/
+
+# Environment variables
+.env
+*.env
+
+# ----------------------
+# Node / React
+# ----------------------
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ----------------------
+# MacOS
+# ----------------------
+.DS_Store
+
+# ----------------------
+# VS Code / Cursor
+# ----------------------
+.vscode/
+.idea/
+
+# ----------------------
+# Docker
+# ----------------------
+*.pid
+
+# ----------------------
+# Elasticsearch Data
+# ----------------------
+esdata/
+
+# ----------------------
+# Coverage / Testing
+# ----------------------
+coverage/
+htmlcov/
+
+# ----------------------
+# Misc
+# ----------------------
+*.swp
+*.swo
