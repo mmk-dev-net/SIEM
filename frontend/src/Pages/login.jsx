@@ -46,7 +46,7 @@ const Login = () => {
           <form className="space-y-5" onSubmit={handleSubmit} >
             <div>
               <label className="block text-sm text-slate-300 mb-2">
-                Email Address
+                Email Addresssss
               </label>
 
               <input
